@@ -1,0 +1,17 @@
+xcassets:
+  inputs:
+    - Sources/Design/Resources/Colors.xcassets
+    - Sources/Design/Resources/Images.xcassets
+  outputs:
+    templatePath: SwiftGen/Assets.stencil
+    output: Sources/Design/Resources/SwiftGen/Assets.swift
+fonts:
+  inputs: Sources/Design/Resources/Fonts
+  outputs:
+    templatePath: SwiftGen/Fonts.stencil
+    output: Sources/Design/Resources/SwiftGen/Fonts.swift
+strings:
+  inputs: Sources/Design/Resources/Localizations/en.lproj
+  outputs:
+    templatePath: SwiftGen/Strings.stencil
+    output: Sources/Design/Resources/SwiftGen/Strings.swift

@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "5d6a6df5232eff28f9f71048e5745706d02be1f8",
+          "version": "3.4.0"
+        }
+      },
+      {
+        "package": "HandySwiftUI",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwiftUI.git",
+        "state": {
+          "branch": "main",
+          "revision": "039ef2d217a6a1a65c18567abc98d5a2311dca6c",
+          "version": null
+        }
+      },
+      {
+        "package": "SFSafeSymbols",
+        "repositoryURL": "https://github.com/piknotech/SFSafeSymbols.git",
+        "state": {
+          "branch": null,
+          "revision": "c61de7a6e9eb1520d32316b06d5932accd974e70",
+          "version": "2.1.3"
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing.git",
+        "state": {
+          "branch": null,
+          "revision": "f8a9c997c3c1dab4e216a8ec9014e23144cbab37",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect.git",
+        "state": {
+          "branch": null,
+          "revision": "f2616860a41f9d9932da412a8978fec79c06fe24",
+          "version": "0.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
