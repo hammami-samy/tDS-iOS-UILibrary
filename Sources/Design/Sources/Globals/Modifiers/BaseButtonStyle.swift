@@ -72,8 +72,8 @@ public struct BaseButtonStyle: ButtonStyle {
         switch variant {
         case .filled:
             return configuration.isPressed
-            ? Clr.TrvBlue.trv900
-            : Clr.TrvBlue.trv700
+            ? Clr.TrvGreen.trv900
+            : Clr.TrvGreen.trv700
             
         case .outlined:
             return configuration.isPressed
